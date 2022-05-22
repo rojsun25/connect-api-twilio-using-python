@@ -1,4 +1,4 @@
-# connect-api-twilio-using-python
+# connect-api-using-python
 Send/Retrieve messages from the twilio-trail account using python
 
 Create twilio account: https://www.twilio.com/try-twilio
